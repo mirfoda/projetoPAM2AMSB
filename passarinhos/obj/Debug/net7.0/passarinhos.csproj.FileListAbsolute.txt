@@ -1,0 +1,15 @@
+D:\jerson\passarinhos\obj\Debug\net7.0\passarinhos.csproj.AssemblyReference.cache
+D:\jerson\passarinhos\obj\Debug\net7.0\passarinhos.GeneratedMSBuildEditorConfig.editorconfig
+D:\jerson\passarinhos\obj\Debug\net7.0\passarinhos.AssemblyInfoInputs.cache
+D:\jerson\passarinhos\obj\Debug\net7.0\passarinhos.AssemblyInfo.cs
+D:\jerson\passarinhos\obj\Debug\net7.0\passarinhos.csproj.CoreCompileInputs.cache
+D:\jerson\passarinhos\bin\Debug\net7.0\passarinhos.exe
+D:\jerson\passarinhos\bin\Debug\net7.0\passarinhos.deps.json
+D:\jerson\passarinhos\bin\Debug\net7.0\passarinhos.runtimeconfig.json
+D:\jerson\passarinhos\bin\Debug\net7.0\passarinhos.dll
+D:\jerson\passarinhos\bin\Debug\net7.0\passarinhos.pdb
+D:\jerson\passarinhos\obj\Debug\net7.0\passarinhos.dll
+D:\jerson\passarinhos\obj\Debug\net7.0\refint\passarinhos.dll
+D:\jerson\passarinhos\obj\Debug\net7.0\passarinhos.pdb
+D:\jerson\passarinhos\obj\Debug\net7.0\passarinhos.genruntimeconfig.cache
+D:\jerson\passarinhos\obj\Debug\net7.0\ref\passarinhos.dll
